@@ -1,0 +1,20 @@
+# Logfile created on 2014-08-18 11:06:40 -0400 by logger.rb/41954
+D, [2014-08-18T11:07:30.871946 #1840] DEBUG -- : Numerator: 5, denominator 4
+D, [2014-08-18T11:07:54.408375 #3576] DEBUG -- : Numerator: 3, denominator 4
+D, [2014-08-18T11:09:01.097711 #2448] DEBUG -- : Numerator: 3, denominator 4
+D, [2014-08-18T11:09:14.515394 #4264] DEBUG -- : Numerator: 4, denominator 7
+D, [2014-08-18T11:09:45.255540 #3440] DEBUG -- : Numerator: 7, denominator 8
+D, [2014-08-18T11:10:02.522993 #3540] DEBUG -- : Numerator: 3, denominator 4
+D, [2014-08-18T11:10:35.887665 #2492] DEBUG -- : Numerator: 3, denominator 5
+D, [2014-08-18T11:11:07.434973 #1652] DEBUG -- : Numerator: 0, denominator 0
+E, [2014-08-18T11:11:07.435973 #1652] ERROR -- : Error in division!: divided by 0
+D, [2014-08-18T11:14:45.016713 #2072] DEBUG -- : Numerator: 3, denominator 5
+D, [2014-08-18T11:14:55.568768 #2556] DEBUG -- : Numerator: 5, denominator 4
+E, [2014-08-18T11:16:51.742384 #2140] ERROR -- : Error in division!: divided by 0
+D, [2014-08-18T11:18:39.396941 #4348] DEBUG -- : Numerator: 3, denominator 4
+D, [2014-08-18T11:19:21.058941 #3328] DEBUG -- : Numerator: 3, denominator 3
+D, [2014-08-18T11:21:09.756941 #4556] DEBUG -- : Numerator: 4, denominator 5
+D, [2014-08-18T11:22:19.552941 #3700] DEBUG -- : Numerator: 3, denominator 3
+D, [2014-08-18T11:22:46.342941 #1284] DEBUG -- : Numerator: 7, denominator 4
+D, [2014-08-18T14:18:47.274567 #2976] DEBUG -- : Numerator: 3.0, denominator 5.0
+D, [2014-08-18T15:53:36.581562 #4216] DEBUG -- : Numerator: 3.0, denominator 4.0

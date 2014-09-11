@@ -1,0 +1,5 @@
+
+
+array=['x']
+array.each_with_index do |str, idx|
+	puts "#{str} with #{array[0]} combo"

@@ -1,0 +1,7 @@
+require "rubygems"
+require "highline/import"
+
+@C = 299792458
+
+def accel_calc
+	mass = ask("Mass?", Float)
